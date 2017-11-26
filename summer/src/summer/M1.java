@@ -11,6 +11,7 @@ public class M1 {
 	private static void display()
 	{
 		System.out.println("hello display");
+		System.out.println("welcome");
 	}
 
 }
